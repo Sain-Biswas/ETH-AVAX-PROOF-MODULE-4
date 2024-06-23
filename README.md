@@ -4,7 +4,7 @@ Repository for Module 4 of Eth Avax Proof - Interediate EVM Course
 
 ## Description
 
-In this repository you will get the source code for deploying a
+In this repository you will get the source code for deploying a ERC20 Token on avalanche network.
 
 ## Getting Started
 
