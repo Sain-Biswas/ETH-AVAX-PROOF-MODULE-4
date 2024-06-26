@@ -1,4 +1,4 @@
-# Project Title
+# Degen Gaming Tokens
 
 Repository for Module 4 of Eth Avax Proof - Interediate EVM Course
 
