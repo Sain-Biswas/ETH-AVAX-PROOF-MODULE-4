@@ -10,12 +10,12 @@ In this repository you will get the source code for deploying a ERC20 Token on a
 
 ### Installing
 
-    run :
+run :
 ```
 npm i
 ```
 
-    to install all node dependencies required to run the project
+to install all node dependencies required to run the project
 
 ### Executing program
 
